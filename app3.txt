@@ -1,2 +1,4 @@
 welcome to devops class branch1
 Module 1:Git and Github
+welcome to github class
+intellj setup
